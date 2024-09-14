@@ -45,7 +45,7 @@ You can reach me through the following platforms:
 
 - 📧 Email: [avetisyanar1234@gmail.com](avetisyanar1234@gmail.com)
 - 💼 LinkedIn: [Artyom Avetisyan](https://www.linkedin.com/in/artyom-avetisyan-776374329/)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐙 GitHub: [Artyom Avetisyan](https://github.com/ArtyomAvetisyann)
 - 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
 - 📸 Telegram: [@artyooomm](https://t.me/artyooomm)
 
