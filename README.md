@@ -47,8 +47,4 @@ You can reach me through the following platforms:
 
 - 📧 Email: [avetisyanar1234@gmail.com](avetisyanar1234@gmail.com)
 - 💼 LinkedIn: [Artyom Avetisyan](https://www.linkedin.com/in/artyom-avetisyan-776374329/)
-- 🐙 GitHub: [Artyom Avetisyan](https://github.com/ArtyomAvetisyann)
-- 🌐 Portfolio: [Your Portfolio](https://yourportfolio.com)
 - 📸 Telegram: [@artyooomm](https://t.me/artyooomm)
-
-Feel free to reach out if you want to collaborate or just chat about Flutter and mobile development!
