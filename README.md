@@ -22,21 +22,24 @@ I am a **Mid-Level Mobile Developer** specializing in **Flutter**.
 
 ![Flutter](https://img.shields.io/badge/Flutter-00cdff?&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-007cff?&logo=dart&logoColor=white)
-![Bloc](https://img.shields.io/badge/Bloc-00ff0c?&logo=flutter&logoColor=white)
-![Cubit](https://img.shields.io/badge/Cubit-1b00ff?&logo=flutter&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-f300ff?&logo=hive&logoColor=white)
+![Bloc/Cubit](https://img.shields.io/badge/Bloc/Cubit-0078d7?&logo=flutter&logoColor=white)
+![Hive/Shared Preferences](https://img.shields.io/badge/Hive/Shared_Preferences-f300ff?&logo=hive&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-f0ff00?&logo=firebase&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-00ffb9?&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-ff7400?&logo=bitbucket&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00ffaa?&logo=architecture&logoColor=white)
 ![Animations](https://img.shields.io/badge/Animations-ff0000?&logo=animation&logoColor=white)
 ![SquareService](https://img.shields.io/badge/SquareService-8700ff?&logo=square&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-ffbd00?&logo=object_oriented&logoColor=white)
 ![Http/Di](https://img.shields.io/badge/Http/Di-b80669?&logo=http&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-04933e?&logo=provider&logoColor=white)
-![Shared Preferences](https://img.shields.io/badge/Shared_Preferences-af2828?&logo=preferences&logoColor=white)
+![SDK](https://img.shields.io/badge/SDK_Connection-00ff0c?&logo=preferences&logoColor=white)
+![Plugins](https://img.shields.io/badge/Plugins_Connection-33b4b4?&logo=preferences&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-00a84c?&logo=preferences&logoColor=white)
+![Working with stores](https://img.shields.io/badge/Working_With_Stores-b62670?&logo=preferences&logoColor=white)
+![Unit tests](https://img.shields.io/badge/Unit_tests-d61b3d?&logo=&logoColor=white)
+![Appsflyer](https://img.shields.io/badge/Appsflyer-7f99f9?&logo=appflyer&logoColor=white)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-f9cb7f?&logo=payment&logoColor=white)
 
-#
 
 ### Contact
 
