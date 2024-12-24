@@ -36,8 +36,6 @@ I am a **Mid-Level Mobile Developer** specializing in **Flutter**.
 ![Plugins](https://img.shields.io/badge/Plugins_Connection-33b4b4?&logo=preferences&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-00a84c?&logo=preferences&logoColor=white)
 ![Working with stores](https://img.shields.io/badge/Working_With_Stores-b62670?&logo=preferences&logoColor=white)
-![Unit tests](https://img.shields.io/badge/Unit_tests-d61b3d?&logo=&logoColor=white)
-![Appsflyer](https://img.shields.io/badge/Appsflyer-7f99f9?&logo=appflyer&logoColor=white)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-f9cb7f?&logo=payment&logoColor=white)
 
 
